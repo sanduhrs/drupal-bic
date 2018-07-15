@@ -1,0 +1,15 @@
+{
+    "name": "drupal/bic",
+    "description": "The Bank Identifier Code module.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Stefan Auditor",
+            "email": "stefan.auditor@erdfisch.de"
+        }
+    ],
+    "require": {
+        "ronanguilloux/isocodes": "^2.1"
+    }
+}

@@ -1,0 +1,5 @@
+name: Bank Identifier Code
+type: module
+description: The Bank Identifier Code module.
+package: Custom
+core: 8.x
